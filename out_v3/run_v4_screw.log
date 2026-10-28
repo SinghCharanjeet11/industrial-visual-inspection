@@ -1,0 +1,5 @@
+C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (2.6.3) or chardet (7.4.3)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+[screw] denoised train 13/208 test 13/160 extra bank 0
+[screw] prep 5s
+[screw] gray/wrn50 n_bank=208+0 n_test=160 (415s)

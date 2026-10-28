@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Kaggle competition data (download from the competition page)
+clips/
+train.csv
+test.csv
+sample_submission.csv
+
+# pipeline output when run in place
+scores/

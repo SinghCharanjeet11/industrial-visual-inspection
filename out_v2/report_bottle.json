@@ -1,0 +1,41 @@
+{
+ "color": {
+  "n_good": 126,
+  "auroc_all": 1.0,
+  "auroc_cutpaste": 1.0,
+  "auroc_scar": 0.9999,
+  "auroc_blob": 1.0,
+  "auroc_recolor": 1.0,
+  "f1@p90": 0.9749,
+  "recall@p90": 1.0,
+  "f1@p95": 0.9863,
+  "recall@p95": 1.0,
+  "f1@p97.5": 0.9921,
+  "recall@p97.5": 1.0,
+  "f1@p99": 0.996,
+  "recall@p99": 1.0,
+  "f1@p100": 0.999,
+  "recall@p100": 0.998,
+  "thr": 0.643958643078804
+ },
+ "gray": {
+  "n_good": 135,
+  "auroc_all": 1.0,
+  "auroc_cutpaste": 1.0,
+  "auroc_scar": 1.0,
+  "auroc_blob": 1.0,
+  "f1@p90": 0.9666,
+  "recall@p90": 1.0,
+  "f1@p95": 0.983,
+  "recall@p95": 1.0,
+  "f1@p97.5": 0.9902,
+  "recall@p97.5": 1.0,
+  "f1@p99": 0.9951,
+  "recall@p99": 1.0,
+  "f1@p100": 1.0,
+  "recall@p100": 1.0,
+  "thr": 0.5867043888568878
+ },
+ "test_pred_defect_frac": 0.747,
+ "test_gray_frac": 0.06
+}

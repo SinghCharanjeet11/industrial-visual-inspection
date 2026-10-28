@@ -1,0 +1,21 @@
+C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (2.6.3) or chardet (7.4.3)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+[cable] prep 33s
+[cable] color/wrn50 n_bank=129 n_test=128 (296s)
+[cable] gray/wrn50 n_bank=145 n_test=22 (530s)
+[cable] color/dn201 n_bank=129 n_test=128 (851s)
+[cable] gray/dn201 n_bank=145 n_test=22 (1106s)
+[screw] prep 39s
+[screw] gray/wrn50 n_bank=208 n_test=160 (247s)
+[screw] gray/dn201 n_bank=208 n_test=160 (455s)
+[hazelnut] prep 43s
+[hazelnut] color/wrn50 n_bank=227 n_test=100 (322s)
+[hazelnut] gray/wrn50 n_bank=254 n_test=10 (611s)
+[hazelnut] color/dn201 n_bank=227 n_test=100 (920s)
+[hazelnut] gray/dn201 n_bank=254 n_test=10 (1238s)
+[bottle] prep 26s
+[bottle] color/wrn50 n_bank=126 n_test=78 (202s)
+[bottle] gray/wrn50 n_bank=135 n_test=5 (372s)
+[bottle] color/dn201 n_bank=126 n_test=78 (585s)
+[bottle] gray/dn201 n_bank=135 n_test=5 (775s)
+DONE

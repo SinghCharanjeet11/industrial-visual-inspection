@@ -1,0 +1,22 @@
+{
+ "gray": {
+  "n_good": 208,
+  "auroc_all": 0.996,
+  "auroc_cutpaste": 1.0,
+  "auroc_scar": 0.9892,
+  "auroc_blob": 0.999,
+  "f1@p90": 0.9626,
+  "recall@p90": 0.9904,
+  "f1@p95": 0.9754,
+  "recall@p95": 0.9856,
+  "f1@p97.5": 0.9816,
+  "recall@p97.5": 0.9824,
+  "f1@p99": 0.9855,
+  "recall@p99": 0.9808,
+  "f1@p100": 0.9878,
+  "recall@p100": 0.976,
+  "thr": 0.6193311727046966
+ },
+ "test_pred_defect_frac": 0.637,
+ "test_gray_frac": 1.0
+}
